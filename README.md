@@ -1,7 +1,7 @@
 # Estrutura De Dados 2 - Trabalho 1
 # Implementação de uma árvore B+
 
-## insere registro: 
+## Insere registro: 
 esta operação conterá quatro linhas. A primeira linha conterá a letra ’i’. A
 segunda conterá um valor de chave. A terceira conterá uma sequência de até 20 caracteres, que
 corresponderá ao campo nome. Essa sequência conterá qualquer sequência de letras (minúsculas,
@@ -13,18 +13,18 @@ seguido do valor da chave. Se a chave não existir, a operação insere o regist
 na saída, a sequência de caracteres ’insercao com sucesso:’, seguida de um espaço, seguido do
 valor da chave.
 
-## consulta registro: 
+## Consulta registro: 
 esta operação conterá duas linhas. A primeira linha conterá a letra ’c’. A segunda conterá um valor de chave.
 
-## remove registro: 
+## Remove registro: 
 esta operação conterá duas linhas. A primeira linha conterá a letra ’r’. A segunda conterá um valor de chave.
 
-## imprime árvore: 
+## Imprime árvore: 
 esta operação conterá apenas uma linha, contendo a letra ’p’. O formato da saída desta operação está indicado na seção 3.
 
-## imprime chaves em ordem crescente: 
+## Imprime chaves em ordem crescente: 
 esta operação conterá apenas uma linha, contendo a letra ’o’.
 
-## término da sequência de comandos:
+## Término da sequência de comandos:
 a sequência de comandos será terminada por uma linha com a letra ’e’.
 
