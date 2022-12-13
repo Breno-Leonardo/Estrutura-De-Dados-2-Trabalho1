@@ -1,4 +1,4 @@
-# Estrutura-De-Dados-2-Trabalho1
+# Estrutura De Dados 2 - Trabalho 1
 # Implementação de uma árvore B+
 
 ## insere registro: 
